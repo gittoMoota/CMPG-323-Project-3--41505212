@@ -4,6 +4,11 @@ This project focuses on enhancing and improving an existing Web Application that
 
 # **[Project Insights](https://github.com/users/gittoMoota/projects/10)** #
 
+# **[Project progress]()
+
+# **[Application link](https://telemetryportalmvc20240826004031.azurewebsites.net)
+
+
 # **APP NAVIGATION** #
 
 # **Registration and Login**#
