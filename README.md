@@ -2,12 +2,9 @@
 
 This project focuses on enhancing and improving an existing Web Application that manages CRUD functionality for project and client data. The goal is to implement architectural patterns, coding principles, and design patterns in alignment with the project's requirements.
 
-# **[Project Insights](https://github.com/users/gittoMoota/projects/10)** #
-
-# **[Project progress]()
+# **[Project progress](https://github.com/users/gittoMoota/projects/10)** #
 
 # **[Application link](https://telemetryportalmvc20240826004031.azurewebsites.net)
-
 
 # **APP NAVIGATION** #
 
