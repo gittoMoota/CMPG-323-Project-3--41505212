@@ -26,3 +26,12 @@ The user can create a new project from the Project. They must provide the projec
 
 ![Project Creation](https://github.com/user-attachments/assets/860a735d-5f9e-4cfe-828a-e8be9979a108)
 
+# CERTIFICATES
+[Write your first C# code](https://learn.microsoft.com/api/achievements/share/en-us/KGMoota-4390/PSQUXEF4?sharingId=AA7F95FD01EA5521)
+
+[Get started with web development using Visual Studio Code](https://learn.microsoft.com/api/achievements/share/en-us/KGMoota-4390/UXCVDF63?sharingId=AA7F95FD01EA5521)
+
+[Secure a .NET web app with the ASP.NET Core Identity framework](https://learn.microsoft.com/api/achievements/share/en-us/KGMoota-4390/ETM9XLSP?sharingId=AA7F95FD01EA5521)
+
+
+
