@@ -26,6 +26,8 @@ The user can create a new project from the Project. They must provide the projec
 
 ![Project Creation](https://github.com/user-attachments/assets/860a735d-5f9e-4cfe-828a-e8be9979a108)
 
+The user can click the Hello (user name) at the top right of the page, on the left of the log out option to enable the two-factor authentication and to add their additional information such as their phone number.
+
 # CERTIFICATES
 [Write your first C# code](https://learn.microsoft.com/api/achievements/share/en-us/KGMoota-4390/PSQUXEF4?sharingId=AA7F95FD01EA5521)
 
